@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1685637651 source:f:\poo\1\poiect_poo_v1\src\data.cpp
+	"Data.h"
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<thread>
+	<chrono>
+
+1685628436 f:\poo\1\poiect_poo_v1\include\data.h
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+
+1685636377 source:f:\poo\1\poiect_poo_v1\src\bunuriservicii.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<map>
+	<thread>
+	<chrono>
+	"BunuriServicii.h"
+	"GestionareCheltuieli.h"
+	"Data.h"
+	"Plata.h"
+
+1685628464 f:\poo\1\poiect_poo_v1\include\bunuriservicii.h
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<map>
+
+1685739552 f:\poo\1\poiect_poo_v1\include\gestionarecheltuieli.h
+	<iostream>
+	<fstream>
+	<string>
+	<map>
+	<sstream>
+	"BunuriServicii.h"
+	"Plata.h"
+
+1685629317 f:\poo\1\poiect_poo_v1\include\plata.h
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<vector>
+	"Data.h"
+	"BunuriServicii.h"
+
+1685998025 source:f:\poo\1\poiect_poo_v1\src\plata.cpp
+	"Plata.h"
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<vector>
+	<math.h>
+	<iomanip>
+	<thread>
+	<chrono>
+
+1686060789 source:f:\poo\1\poiect_poo_v1\src\gestionarecheltuieli.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<map>
+	<vector>
+	<sstream>
+	<iomanip>
+	<math.h>
+	<thread>
+	<chrono>
+	"GestionareCheltuieli.h"
+	"Data.h"
+	"BunuriServicii.h"
+	"Plata.h"
+
+1686056060 source:f:\poo\1\poiect_poo_v1\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<ios>
+	<limits>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"Plata.h"
+	"GestionareCheltuieli.h"
+	"Data.h"
+	"BunuriServicii.h"
+
