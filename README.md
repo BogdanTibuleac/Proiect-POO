@@ -19,8 +19,8 @@ Utilizarea fisierelor makefile:
   ```
    - pentru a sterge fisierele:
   ```bash
-     make clean      # for linux/macOS;
-     make clean(win) # for windows;
+     make clean      #  linux/macOS;
+     make clean(win) #  windows;
   ```
 
 Diagrama UML a claselor:
