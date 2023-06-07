@@ -1,0 +1,74 @@
+ID,Data,Nume bun/serviciu,Tip bun/serviciu,Rata,Cantitate,Pret
+221107000,07/11/0022,meniu KFC,Mancare,40,3,120
+221107001,07/11/0022,sacou,Imbracaminte,220,1,220
+20220606000,06/06/2022,tranzistoare pnp,Diverse,0.06,1e+07,600000
+20221103000,03/11/2022,bratara fitness,Electronice & Electrocasnice,205,1,205
+20221103001,03/11/2022,termostat,Electronice & Electrocasnice,119.99,1,119.99
+20221104000,04/11/2022,asiprator,Electronice & Electrocasnice,389,1,389
+20221105000,05/11/2022,mixer,Electronice & Electrocasnice,169,1,169
+20221106000,06/11/2022,prajitor,Electronice & Electrocasnice,200,2,400
+20221107000,07/11/2022,lenjerie pat,Curatenie Casa,120,1,120
+20221108000,08/11/2022,covor,Renovare,366.667,3,1100
+20221108001,08/11/2022,perne,Renovare,125,4,500
+20221110000,10/11/2022,masa calcat,Renovare,300,1,300
+20221110001,10/11/2022,uscator,Curatenie Casa,130,1,130
+20221110002,10/11/2022,cos rufe,Curatenie Casa,155,2,310
+20221112000,12/11/2022,pomi fructiferi,Diverse,50,5,250
+20221112001,12/11/2022,amenda viteza,Amenzi,800,1,800
+20221114000,14/11/2022,gratar,Renovare,390,1,390
+20221114001,14/11/2022,factura internet&TV,Facturi & Utilitati,170,1,170
+20221114002,14/11/2022,jucarii,Cadouri,180,5,900
+20221115000,15/11/2022,vitamine,Sanatate,67,1,67
+20221115001,15/11/2022,separator medicamente,Sanatate,70,1,70
+20221116000,16/11/2022,cafea,Mancare,25,2,50
+20221116001,16/11/2022,parfum,Cadouri,300,1,300
+20221117000,17/11/2022,rucsac ,Sport,99,1,99
+20221117001,17/11/2022,deodorant,Curatenie Casa,20,3,60
+20221120000,20/11/2022,oglinda,Renovare,349.5,2,699
+20221121000,21/11/2022,cuier,Renovare,700,1,700
+20221125000,25/11/2022,pantofar,Renovare,300,1,300
+20221125001,25/11/2022,becuri LED ,Renovare,33.3333,6,200
+20221213000,13/12/2022,fierbator,Electronice&Electrocasnice,210,1,210
+20221213001,13/12/2022,uscator de par,Electronice&Electrocasnice,140,1,140
+20221215000,15/12/2022,brad Craciun,Diverse,400,1,400
+20230301000,01/03/2023,vopsea,Renovare,90,5,450
+20230302000,02/03/2023,cort,Sport,600,1,600
+20230302001,02/03/2023,role,Sport,210,1,210
+20230302002,02/03/2023,masca de protectie,Sport,80,1,80
+20230312000,12/03/2023,covrigi,Mancare,4,5,20
+20230320000,20/03/2023,apa,Mancare,2.7,10,27
+20230320001,20/03/2023,ciocolata,Mancare,32.5,2,65
+20230321000,21/03/2023,abonament TPL,Calatorie&Transport,100,1,100
+20230321001,21/03/2023,Nurofen,Sanatate,50,1,50
+20230321002,21/03/2023,Paracetamol,Sanatate,6.5,1,6.5
+20230501000,01/05/2023,abonament TPL,Calatorie&Transport,100,1,100
+20230501001,01/05/2023,hanorac,Imbracaminte,150,1,150
+20230501002,01/05/2023,blugi,Imbracaminte,100,1,100
+20230503000,03/05/2023,factura E.on energie electrica,Facturi&Utilitati,488,1,488
+20230503001,03/05/2023,factura E.on gaze,Facturi&Utilitati,234,1,234
+20230511000,11/05/2023,flori,Cadouri,60,1,60
+20230512000,12/05/2023,tricou,Imbracaminte,57.5,2,115
+20230520000,20/05/2023,pix,Educatie,3,6,18
+20230520001,20/05/2023,obiecte papetarie,Educatie,8.16667,6,49
+20230527000,27/05/2023,detergent rufe,Curatenie Casa,14,5,70
+20230527001,27/05/2023,detergent vase,Curatenie Casa,12,1,12
+20230601000,01/06/2023,telefon,Electronice&Electrocasnice,6000,1,6000
+20230603000,03/06/2023,placinta,Mancare,4,2,8
+20230605000,05/06/2023,periuta electrica,Electronice&Electrocasnice,400,1,400
+20230605001,05/06/2023,baterie externa,Electronice&Electrocasnice,250,1,250
+20230605002,05/06/2023,geaca,Imbracaminte,600,1,600
+20230605003,05/06/2023,cafea,Mancare,25.6667,3,77
+20230605004,05/06/2023,ciment,Renovare,2.5,400,1000
+20230605005,05/06/2023,covor,Curatenie Casa,570,1,570
+20230605006,05/06/2023,parchet,Renovare,85,20,1700
+20230605007,05/06/2023,sejur Grecia,Vacanta,4500,2,9000
+20230605008,05/06/2023,pasta de dinti,Sanatate,22,1,22
+20230605009,05/06/2023,cablu USB,Electronice & Electrocasnice,70,1,70
+20230606000,06/06/2023,ciocolata,Mancare,4.5,20,90
+20230606001,06/06/2023,capsuni,Mancare,20,3,60
+20230606002,06/06/2023,vitamine,Sanatate,45,1,45
+20230606003,06/06/2023,magnet frigider,Diverse,12,1,12
+20230606004,06/06/2023,pijama,Imbracaminte,110,1,110
+20230607000,07/06/2023,sare,Mancare,2,1,2
+20230607001,07/06/2023,umbrela,Diverse,25,1,25
+20230607002,07/06/2023,prelungitor,Diverse,70,1,70
