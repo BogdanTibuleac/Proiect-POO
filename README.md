@@ -22,8 +22,35 @@ Utilizarea fisierelor makefile:
      make clean      #  linux/macOS;
      make clean(win) #  windows;
   ```
-
+<br>
+Alternativ, proiectul se poate deschide utilizand CodeBlocks.
+<br>
+<br>
 Diagrama UML a claselor:
+<br>
 <p align="center">
-  <img src="./diagramaClase.jpg" alt="Size Limit CLI" width="738">
+  <img src="./imagini/diagramaClase.jpg" alt="Size Limit CLI" width="738">
 </p>
+
+<br>
+
+## Interfata
+<p align="center">
+  <img src="./imagini/interfaata.jpg" alt="Size Limit CLI" width="738">
+</p>
+
+## Afisare
+<p align="center">
+  <img src="./imagini/afisare.jpg" alt="Size Limit CLI" width="738">
+</p>
+
+## Calcul plati
+<p align="center">
+  <img src="./imagini/calcul_plati.jpg" alt="Size Limit CLI" width="738">
+</p>
+
+## Bunuri si servicii existente
+<p align="center">
+  <img src="./imagini/bunuri_servicii.jpg" alt="Size Limit CLI" width="738">
+</p>
+
